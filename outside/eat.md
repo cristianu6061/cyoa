@@ -1,4 +1,4 @@
-You died extreme diarehha from the food
+You died from extreme diarehha from the food
 
 Good luck next time
 
