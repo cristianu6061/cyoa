@@ -3,6 +3,8 @@
 
 [Start of Game](60-seconds.md)
 
+Credits-
+
 [Christian](https://github.com/cristianu6061)
 
 [Sadik](https://github.com/sadikh0903)
