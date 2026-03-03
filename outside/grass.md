@@ -2,4 +2,4 @@ You have 10 seconds left, do you want to listen to music or sit there listening 
 
 [Listen to music](music.md)   [Listen to nature](nature.md)
 
-[Start Over](../60-seconds-until-world-ends/inside.md)
+[Start Over](../60-seconds.md)
