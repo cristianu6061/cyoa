@@ -1,8 +1,7 @@
 
-
-You spend the remaining time annoying your sibling & trying to take your mind off the fact that you've got 55 seconds left to live.
-
-
-
-
+# You have 0 seconds to live
+## Indoors
+---
+You spend the remaining time talking to your friend about the joy you guys had together & pass away reminiscing.
+---
 [Start Over](../60-seconds.md)
