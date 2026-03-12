@@ -1,8 +1,10 @@
-# You have 60 seconds to live
+# You have 55 seconds to live
 ## Indoors
 ---
 What do you want to do:
-## [Stay in your room](room.md)
-## [Call someone](call.md)
+Reflect on the friendship
+## [Reflect on your friendship](reflect-sibling.md)
+Tell them about the plans you had for the future.
+## [Tell them about the plans you had](reflect-future.md)
 ---
 [Start Over](../60-seconds.md)
